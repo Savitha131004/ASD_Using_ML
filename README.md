@@ -1,4 +1,4 @@
-#Diagnosis of Autism Spectrum Disorder using Machine Learning Techniques
+## Diagnosis of Autism Spectrum Disorder using Machine Learning Techniques
 
 ## Project Description
 
